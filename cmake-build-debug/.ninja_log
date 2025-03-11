@@ -1,0 +1,13 @@
+# ninja log v6
+1	147	1741718357923665988	CMakeFiles/Ejercicios_parcial_1.dir/main.cpp.o.ddi	4b84ff23573ce09e
+147	155	1741718358077838465	CMakeFiles/Ejercicios_parcial_1.dir/CXX.dd	95619ce5a0020e71
+147	155	1741718358077838465	/home/fernudev/Documents/UNAM/Modelado/Ejercicios_parcial_1/cmake-build-debug/CMakeFiles/Ejercicios_parcial_1.dir/CXXModules.json	95619ce5a0020e71
+147	155	1741718358077838465	CMakeFiles/Ejercicios_parcial_1.dir/main.cpp.o.modmap	95619ce5a0020e71
+155	744	1741718358077838465	CMakeFiles/Ejercicios_parcial_1.dir/main.cpp.o	439cfa9d8e5ce9d8
+747	856	1741718358669673840	Ejercicios_parcial_1	9f7a1c25fbe9611
+5	168	1741718641074319141	CMakeFiles/Ejercicios_parcial_1.dir/main.cpp.o.ddi	4b84ff23573ce09e
+168	178	1741718641237320586	CMakeFiles/Ejercicios_parcial_1.dir/CXX.dd	95619ce5a0020e71
+168	178	1741718641237320586	/home/fernudev/Documents/UNAM/Modelado/Ejercicios_parcial_1/cmake-build-debug/CMakeFiles/Ejercicios_parcial_1.dir/CXXModules.json	95619ce5a0020e71
+168	178	1741718641237320586	CMakeFiles/Ejercicios_parcial_1.dir/main.cpp.o.modmap	95619ce5a0020e71
+178	777	1741718641247320674	CMakeFiles/Ejercicios_parcial_1.dir/main.cpp.o	439cfa9d8e5ce9d8
+777	897	1741718641846325986	Ejercicios_parcial_1	9f7a1c25fbe9611
