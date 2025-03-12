@@ -1,3 +1,5 @@
 /home/fernudev/Documents/UNAM/Modelado/Ejercicios_parcial_1/cmake-build-debug/CMakeFiles/Ejercicios_parcial_1.dir
+/home/fernudev/Documents/UNAM/Modelado/Ejercicios_parcial_1/cmake-build-debug/CMakeFiles/test_solution.dir
+/home/fernudev/Documents/UNAM/Modelado/Ejercicios_parcial_1/cmake-build-debug/CMakeFiles/test.dir
 /home/fernudev/Documents/UNAM/Modelado/Ejercicios_parcial_1/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/fernudev/Documents/UNAM/Modelado/Ejercicios_parcial_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
