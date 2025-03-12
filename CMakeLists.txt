@@ -3,4 +3,6 @@ project(Ejercicios_parcial_1)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Ejercicios_parcial_1 main.cpp)
+add_executable(Ejercicios_parcial_1 main.cpp
+        src/Solution.cpp
+        src/Solution.h)
